@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: '!',
         token: 'OTUwNzgwODYwOTQzMTk2MTky.Yid5rQ.TaZhSWnXq7OxH0pUbEb5QxViCfQ',
-        playing: 'by Zerio ❤️'
+        playing: 'by Ciculs ❤️'
     },
 
     opt: {
